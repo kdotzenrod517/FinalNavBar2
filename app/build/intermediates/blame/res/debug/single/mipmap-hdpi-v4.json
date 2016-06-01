@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\kdotz\\AndroidStudioProjects\\Blank\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\kdotz\\AndroidStudioProjects\\Blank\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kdotz\\AndroidStudioProjects\\Blank\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher2.png",
+        "source": "C:\\Users\\kdotz\\AndroidStudioProjects\\Blank\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher2.png"
+    },
+    {
+        "merged": "C:\\Users\\kdotz\\AndroidStudioProjects\\Blank\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_drawer.png",
+        "source": "C:\\Users\\kdotz\\AndroidStudioProjects\\Blank\\app\\src\\main\\res\\mipmap-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\kdotz\\AndroidStudioProjects\\Blank\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_star.png",
+        "source": "C:\\Users\\kdotz\\AndroidStudioProjects\\Blank\\app\\src\\main\\res\\mipmap-hdpi\\ic_star.png"
+    }
+]

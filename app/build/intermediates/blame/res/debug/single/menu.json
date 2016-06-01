@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\kdotz\\AndroidStudioProjects\\Blank\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\kdotz\\AndroidStudioProjects\\Blank\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kdotz\\AndroidStudioProjects\\Blank\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_thing_detail.xml",
+        "source": "C:\\Users\\kdotz\\AndroidStudioProjects\\Blank\\app\\src\\main\\res\\menu\\menu_thing_detail.xml"
+    }
+]
